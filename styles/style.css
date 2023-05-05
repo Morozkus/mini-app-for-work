@@ -1,0 +1,4 @@
+/* reset and global styles */
+@import url(global.css);
+/* first mini-app styles */
+@import url(phoner.css);
